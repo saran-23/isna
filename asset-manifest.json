@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saran-23.github.io/isna/static/css/main.1fbf08ba.chunk.css",
+    "main.js": "/saran-23.github.io/isna/static/js/main.49e0a071.chunk.js",
+    "main.js.map": "/saran-23.github.io/isna/static/js/main.49e0a071.chunk.js.map",
+    "runtime-main.js": "/saran-23.github.io/isna/static/js/runtime-main.bd8705f7.js",
+    "runtime-main.js.map": "/saran-23.github.io/isna/static/js/runtime-main.bd8705f7.js.map",
+    "static/css/2.f3d52190.chunk.css": "/saran-23.github.io/isna/static/css/2.f3d52190.chunk.css",
+    "static/js/2.ba5c7078.chunk.js": "/saran-23.github.io/isna/static/js/2.ba5c7078.chunk.js",
+    "static/js/2.ba5c7078.chunk.js.map": "/saran-23.github.io/isna/static/js/2.ba5c7078.chunk.js.map",
+    "index.html": "/saran-23.github.io/isna/index.html",
+    "static/css/2.f3d52190.chunk.css.map": "/saran-23.github.io/isna/static/css/2.f3d52190.chunk.css.map",
+    "static/css/main.1fbf08ba.chunk.css.map": "/saran-23.github.io/isna/static/css/main.1fbf08ba.chunk.css.map",
+    "static/js/2.ba5c7078.chunk.js.LICENSE.txt": "/saran-23.github.io/isna/static/js/2.ba5c7078.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/saran-23.github.io/isna/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd8705f7.js",
+    "static/css/2.f3d52190.chunk.css",
+    "static/js/2.ba5c7078.chunk.js",
+    "static/css/main.1fbf08ba.chunk.css",
+    "static/js/main.49e0a071.chunk.js"
+  ]
+}
